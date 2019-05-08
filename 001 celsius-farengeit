@@ -1,0 +1,11 @@
+<html>
+    <script>
+    var celcius = prompt('Сколько градусов? °C');
+    var farengeit = (celcius * 9/5) + 32;
+    alert (farengeit + "°F");
+    </script>
+
+<body>
+<div></div>
+</body>
+</html>
